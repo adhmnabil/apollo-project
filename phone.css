@@ -1,0 +1,946 @@
+@media screen and (max-width: 250px) {
+  body {
+    overflow: hidden;
+  }
+  .headwe {
+    font-size: 23px !important;
+  }
+  .head-sub {
+    width: 95%;
+  }
+  .logocom {
+    font-size: 25px;
+  }
+  .headdes {
+    font-size: 12px;
+  }
+  .img-team {
+    width: 100%;
+  }
+  .contacts ul li {
+    padding: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .contacts ul {
+    flex-wrap: wrap;
+  }
+  .head-of-page {
+    height: 532px;
+  }
+
+  .parts {
+    display: none;
+  }
+  .menues {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+    font-size: 20px;
+    color: white;
+  }
+  .logo {
+    width: 31%;
+    text-align: center;
+    margin-top: 3px;
+    margin-left: 14px;
+  }
+  .logo img {
+    width: 100%;
+  }
+  .about-us {
+    margin-left: 0px;
+  }
+  .who-we-des {
+    display: block;
+    width: 100%;
+  }
+  .who1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: start;
+  }
+  .who2 {
+    font-size: 17px;
+    width: 90%;
+    text-align: center;
+    top: 0;
+    left: 0;
+  }
+  .about-us p {
+    background: transparent;
+    font-size: 10px;
+  }
+  .what-we-do h2 {
+    font-size: 20px;
+  }
+  .lap-p {
+    font-size: 30px;
+  }
+  .icon-do {
+    height: 77px;
+    margin-right: 15px;
+  }
+  .what-we-can-1st {
+    flex-direction: column;
+  }
+  .what-we-do {
+    padding-bottom: 0px;
+  }
+  .what-we-do p {
+    font-size: 11px;
+    padding: 10px 0px 20px 5px;
+  }
+  .facts h3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .featurs {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+  }
+  .head span {
+    padding: 0px;
+  }
+  .p-survey p {
+    font-size: 13px;
+  }
+  .p-survey p::after {
+    width: 100px;
+    left: 13%;
+  }
+  .line {
+    display: none;
+  }
+  .team1 {
+    padding: 0px 20px 0px 20px;
+    width: 90%;
+  }
+  .descripe h2 {
+    font-size: 13px;
+  }
+  .our-team2 {
+    flex-direction: column;
+  }
+  .our-skills {
+    flex-direction: column;
+    align-items: center;
+  }
+  .skills2 {
+    width: 80%;
+  }
+  .our-latest-shot h4 {
+    font-size: 14px;
+  }
+  .our-latest-shot span {
+    padding: 0px;
+  }
+  .imgs-part1 {
+    width: 90%;
+  }
+  .our-work-service {
+    flex-direction: column;
+    align-items: center;
+  }
+  .graphic {
+    width: 90%;
+  }
+  .subj {
+    font-size: 15px;
+    line-height: 26px;
+  }
+  .clients-log {
+    flex-direction: column;
+  }
+
+  .books1 {
+    flex-direction: column;
+  }
+  .book2 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .book3 {
+    margin-top: 20px;
+  }
+  .books2 {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .book4 {
+    width: 95%;
+  }
+  .book5 {
+    width: 95%;
+    top: 0;
+  }
+  .book6 {
+    width: 95%;
+  }
+  .books3 {
+    flex-direction: column;
+  }
+  .book8 {
+    top: 0;
+    width: 95%;
+    margin-top: 20px;
+  }
+  .book9 {
+    margin-top: 20px;
+    top: 0;
+  }
+  .postss {
+    flex-direction: column;
+  }
+  .posts {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+  .book1:hover .photo-subj {
+    bottom: -7px;
+    left: -52px;
+  }
+  .points {
+    margin-top: 20px;
+  }
+  .infos {
+    flex-direction: column;
+  }
+  .team-ul {
+    justify-content: center !important;
+  }
+}
+@media screen and (min-width: 250px) and (max-width: 450px) {
+  .headwe {
+    font-size: 23px !important;
+  }
+  .head-sub {
+    width: 95%;
+  }
+  .logocom {
+    font-size: 25px;
+  }
+  .p-do {
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .headdes {
+    font-size: 12px;
+  }
+  .clients {
+    background-position: center;
+  }
+  .our-skills {
+    margin-top: 40px;
+  }
+  .img-team {
+    width: 100%;
+  }
+
+  .contacts ul li {
+    padding: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .contacts ul {
+    flex-wrap: wrap;
+  }
+  .head-of-page {
+    height: 532px;
+  }
+  .parts {
+    display: none;
+  }
+  .menues {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+    font-size: 20px;
+    color: white;
+  }
+  .logo {
+    width: 31%;
+    text-align: center;
+    margin-top: 3px;
+    margin-left: 14px;
+  }
+  .logo img {
+    width: 100%;
+  }
+  .about-us {
+    margin-left: 0px;
+  }
+  .who-we-des {
+    display: block;
+    width: 100%;
+  }
+  .who1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: start;
+  }
+  .who2 {
+    font-size: 17px;
+    width: 90%;
+    text-align: center;
+    top: 0;
+    left: 0;
+  }
+  .line {
+    display: none;
+  }
+
+  .about-us p {
+    background: transparent;
+    font-size: 10px;
+  }
+  .what-we-do h2 {
+    font-size: 20px;
+  }
+  .lap-p {
+    font-size: 25px;
+  }
+  .icon-do {
+    height: 65px;
+    margin-right: 15px;
+  }
+  .what-we-can-1st {
+    flex-direction: column;
+  }
+  .what-we-do {
+    padding-bottom: 0px;
+  }
+  .what-we-do p {
+    font-size: 11px;
+    padding: 10px 0px 20px 5px;
+  }
+  .facts h3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .featurs {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+  }
+  .client1 {
+    text-align: center;
+  }
+  .head span {
+    padding: 0px;
+  }
+  .p-survey p {
+    font-size: 13px;
+  }
+  .p-survey p::after {
+    width: 100px;
+    left: 29%;
+  }
+  .team1 {
+    padding: 0px 20px 0px 20px;
+    width: 90%;
+  }
+  .descripe h2 {
+    font-size: 13px;
+  }
+  .our-team2 {
+    flex-direction: column;
+  }
+  .our-skills {
+    flex-direction: column;
+    align-items: center;
+  }
+  .skills2 {
+    width: 80%;
+  }
+  .our-latest-shot h4 {
+    font-size: 14px;
+  }
+  .our-latest-shot span {
+    padding: 0px;
+  }
+  .imgs-part1 {
+    width: 90%;
+  }
+  .our-work-service {
+    flex-direction: column;
+    align-items: center;
+  }
+  .graphic {
+    width: 90%;
+  }
+  .subj {
+    font-size: 12px;
+    line-height: 26px;
+  }
+  .clients-log {
+    flex-direction: column;
+    width: 65%;
+  }
+  .books1 {
+    flex-direction: column;
+  }
+  .book2 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .book3 {
+    margin-top: 20px;
+  }
+  .books2 {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .book4 {
+    width: 95%;
+  }
+  .book5 {
+    width: 95%;
+    top: 0;
+  }
+  .book6 {
+    width: 95%;
+  }
+  .books3 {
+    flex-direction: column;
+  }
+  .book8 {
+    top: 0;
+    width: 95%;
+    margin-top: 20px;
+  }
+  .book9 {
+    margin-top: 20px;
+    top: 0;
+  }
+  .postss {
+    flex-direction: column;
+  }
+  .posts {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+  .book1:hover .photo-subj {
+    bottom: -7px;
+    left: -52%;
+  }
+  .points {
+    margin-top: 20px;
+  }
+  .infos {
+    flex-direction: column;
+  }
+  .per {
+    margin: auto;
+  }
+  .skills2 h4 {
+    margin-left: 20px;
+  }
+  .team-ul {
+    justify-content: center !important;
+  }
+}
+@media screen and (min-width: 450px) and (max-width: 750px) {
+  .headwe {
+    font-size: 23px !important;
+  }
+  .head-sub {
+    width: 95%;
+  }
+  .logocom {
+    font-size: 25px;
+  }
+  .p-do {
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .headdes {
+    font-size: 12px;
+  }
+  .contacts ul li {
+    padding: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .our-skills {
+    margin-top: 40px;
+  }
+  .clients {
+    background-position: center;
+  }
+
+  .contacts ul {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .head-of-page {
+    height: 532px;
+  }
+  .parts {
+    display: none;
+  }
+  .menues {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+    font-size: 40px;
+    color: white;
+  }
+  .img-team {
+    width: 100%;
+  }
+  .logo {
+    width: 31%;
+    text-align: center;
+    margin-top: 3px;
+    margin-left: 14px;
+  }
+  .logo img {
+    width: 100%;
+  }
+  .about-us {
+    margin-left: 0px;
+    margin: auto !important;
+    width: 85%;
+  }
+  .who-we-des {
+    display: block;
+    width: 100%;
+  }
+  .who1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: start;
+  }
+  .who2 {
+    font-size: 17px;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+  }
+  .line {
+    display: none;
+  }
+
+  .about-us p {
+    background: transparent;
+    font-size: 10px;
+  }
+  .what-we-do h2 {
+    font-size: 20px;
+  }
+  .lap-p {
+    font-size: 25px;
+  }
+  .icon-do {
+    height: 65px;
+    margin-right: 15px;
+  }
+  .what-we-can-1st {
+    flex-direction: column;
+  }
+  .what-we-do {
+    padding-bottom: 0px;
+  }
+  .what-we-do p {
+    font-size: 11px;
+    padding: 10px 0px 20px 5px;
+  }
+  .facts h3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .featurs {
+    justify-content: space-evenly;
+    align-items: center;
+    width: 95%;
+    flex-wrap: wrap;
+  }
+  .win-award {
+    margin-right: 25px;
+    width: 40%;
+    text-align: center;
+  }
+  .head span {
+    padding: 0px;
+  }
+  .p-survey p {
+    font-size: 13px;
+  }
+  .p-survey p::after {
+    width: 100px;
+    left: 35%;
+  }
+  .team1 {
+    padding: 0px 20px 0px 20px;
+    width: 90%;
+  }
+  .descripe h2 {
+    font-size: 30px;
+  }
+  .our-team2 {
+    flex-direction: column;
+  }
+  .our-skills {
+    flex-direction: column;
+    align-items: center;
+  }
+  .skills2 {
+    width: 80%;
+  }
+  .our-latest-shot h4 {
+    font-size: 14px;
+  }
+  .our-latest-shot span {
+    padding: 0px;
+  }
+  .imgs-part1 {
+    width: 90%;
+  }
+  .our-work-service {
+    flex-direction: column;
+    align-items: center;
+  }
+  .graphic {
+    width: 90%;
+  }
+  .subj {
+    font-size: 12px;
+    line-height: 26px;
+  }
+  .clients-log {
+    flex-wrap: wrap;
+    width: 90%;
+  }
+  .client1 {
+    width: 40%;
+    text-align: center;
+  }
+  .books1 {
+    flex-direction: column;
+  }
+  .book2 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .book3 {
+    margin-top: 20px;
+  }
+  .books2 {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .book4 {
+    width: 95%;
+  }
+  .book5 {
+    width: 95%;
+    top: 0;
+  }
+  .book6 {
+    width: 95%;
+  }
+  .books3 {
+    flex-direction: column;
+  }
+  .book8 {
+    top: 0;
+    width: 95%;
+    margin-top: 20px;
+  }
+  .book9 {
+    margin-top: 20px;
+    top: 0;
+  }
+  .postss {
+    flex-direction: column;
+  }
+  .posts {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+  .book1:hover .photo-subj {
+    bottom: -7px;
+    left: -52%;
+  }
+  .points {
+    margin-top: 20px;
+  }
+  .infos {
+    flex-direction: column;
+  }
+  .per {
+    margin: auto;
+  }
+  .skills2 h4 {
+    margin-left: 20px;
+  }
+  .team-ul {
+    justify-content: center !important;
+  }
+  .ul-descripe li {
+    font-size: 25px;
+  }
+  .ul-descripe li i {
+    font-size: 22px;
+  }
+}
+@media screen and (min-width: 750px) and (max-width: 1200px) {
+  .headwe {
+    font-size: 23px !important;
+  }
+  .head-sub {
+    width: 95%;
+  }
+  .logocom {
+    font-size: 25px;
+  }
+  .p-do {
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .headdes {
+    font-size: 12px;
+  }
+  .contacts ul li {
+    padding: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .our-skills {
+    margin-top: 40px;
+    flex-wrap: wrap;
+  }
+  .clients {
+    background-position: center;
+  }
+  .contacts ul {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .head-of-page {
+    height: 532px;
+  }
+  .parts {
+    display: none;
+  }
+  .menues {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+    font-size: 40px;
+    color: white;
+  }
+  .img-team {
+    width: 100%;
+  }
+  .logo {
+    width: 31%;
+    text-align: center;
+    margin-top: 3px;
+    margin-left: 14px;
+  }
+  .logo img {
+    width: 100%;
+  }
+  .about-us {
+    margin-left: 0px;
+    margin: auto !important;
+    width: 85%;
+  }
+  .who-we-des {
+    display: block;
+    width: 100%;
+  }
+  .who1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: start;
+  }
+  .who2 {
+    font-size: 17px;
+    width: 60%;
+    margin-right: auto;
+    text-align: center;
+    top: 0;
+    left: 0;
+  }
+  .line {
+    display: none;
+  }
+
+  .about-us p {
+    background: transparent;
+    font-size: 10px;
+  }
+  .what-we-do h2 {
+    font-size: 20px;
+  }
+  .lap-p {
+    font-size: 25px;
+  }
+  .icon-do {
+    height: 65px;
+    margin-right: 15px;
+  }
+  .what-we-can-1st {
+    flex-direction: column;
+  }
+  .what-we-do {
+    padding-bottom: 0px;
+  }
+  .what-we-do p {
+    font-size: 11px;
+    padding: 10px 0px 20px 5px;
+  }
+  .facts h3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .featurs {
+    justify-content: space-evenly;
+    align-items: center;
+    width: 95%;
+    flex-wrap: wrap;
+  }
+  .win-award {
+    margin-right: 25px;
+    width: 40%;
+    text-align: center;
+  }
+  .head span {
+    padding: 0px;
+  }
+  .p-survey p {
+    font-size: 13px;
+  }
+  .p-survey p::after {
+    width: 100px;
+    left: 35%;
+  }
+  .team1 {
+    padding: 0px 20px 0px 20px;
+    width: 90%;
+  }
+  .descripe h2 {
+    font-size: 30px;
+  }
+  .our-team2 {
+    flex-direction: column;
+  }
+  .our-skills {
+    align-items: center;
+  }
+  .skills2 {
+    width: 45%;
+    margin-top: 30px;
+  }
+  .our-latest-shot h4 {
+    font-size: 14px;
+  }
+  .our-latest-shot span {
+    padding: 0px;
+  }
+  .imgs-part1 {
+    width: 90%;
+  }
+  .our-work-service {
+    flex-direction: column;
+    align-items: center;
+  }
+  .graphic {
+    width: 90%;
+  }
+  .subj {
+    font-size: 15px;
+    line-height: 26px;
+  }
+  .clients-log {
+    flex-wrap: wrap;
+    width: 90%;
+  }
+  .client1 {
+    width: 40%;
+    text-align: center;
+  }
+  .books1 {
+    flex-direction: column;
+  }
+  .book2 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .book3 {
+    margin-top: 20px;
+  }
+  .books2 {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .book4 {
+    width: 95%;
+  }
+  .book5 {
+    width: 95%;
+    top: 0;
+  }
+  .book6 {
+    width: 95%;
+  }
+  .books3 {
+    flex-direction: column;
+  }
+  .book8 {
+    top: 0;
+    width: 95%;
+    margin-top: 20px;
+  }
+  .book9 {
+    margin-top: 20px;
+    top: 0;
+  }
+  .postss {
+    flex-direction: column;
+  }
+  .posts {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+  .book1:hover .photo-subj {
+    bottom: -7px;
+    left: -52%;
+  }
+  .points {
+    margin-top: 20px;
+  }
+
+  .infos {
+    flex-direction: column;
+  }
+  .per {
+    margin: auto;
+  }
+  .skills2 h4 {
+    margin-left: 20px;
+  }
+  .team-ul {
+    justify-content: center !important;
+  }
+  .ul-descripe li {
+    font-size: 25px;
+  }
+  .ul-descripe li i {
+    font-size: 22px;
+  }
+}
